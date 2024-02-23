@@ -1,0 +1,4 @@
+Algorithm,Parameters,Train_Accuracy,Test_Accuracy,Test_F1_Score
+DecisionTree,{'max_depth': 10},0.9943181818181818,0.8459595959595959,0.8472568278042086
+RandomForest,{'n_estimators': 100},1.0,0.8636363636363636,0.8642826408942569
+SVM,"{'C': 0.1, 'kernel': 'linear'}",0.9873737373737373,0.9949494949494949,0.9949479838504727
